@@ -20,46 +20,39 @@
       android:layout_height="match_parent"
       android:id="@+id/sample_main_layout">
 
-    <View
-          android:layout_width="match_parent"
-          android:layout_height="1dp"
-          android:background="@android:color/darker_gray" />
 
     <ViewAnimator
         android:id="@+id/sample_output"
         android:layout_width="match_parent"
         android:layout_height="0px"
-        android:layout_weight="1">
+        android:layout_weight="0">
 
-        <ScrollView
-            style="@style/Widget.SampleMessageTile"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                style="@style/Widget.SampleMessage"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingLeft="@dimen/horizontal_page_margin"
-                android:paddingTop="@dimen/vertical_page_margin"
-                android:paddingRight="@dimen/horizontal_page_margin"
-                android:paddingBottom="@dimen/vertical_page_margin"
-                android:text="@string/intro_message" />
-        </ScrollView>
 
         <fragment
             android:id="@+id/log_fragment"
             android:name="com.example.android.common.logger.LogFragment"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_width="0dp"
+            android:layout_height="0dp" />
 
     </ViewAnimator>
 
-    <FrameLayout
-          android:id="@+id/sample_content_fragment"
-          android:layout_weight="2"
-          android:layout_width="match_parent"
-          android:layout_height="0px" />
+    <Button
+        android:id="@+id/button_basket"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Basket" />
+
+    <Button
+        android:id="@+id/button_search"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Search" />
+    <Button
+        android:id="@+id/button_recette"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Recette" />
+
 
 </LinearLayout>
 

@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\cours_android\\git\\projet_atelier_des_chefs\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "C:\\Users\\ykari\\Desktop\\projet_atelier_des_chefs-m\\projet_atelier_des_chefs\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\titel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\061c3906673cab95c794ca282f6a9194\\res\\values-hu\\values-hu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
-                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
-                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\titel\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\a4c1317eb5b04663992a1d8598c3de82\\res\\values-hu\\values-hu.xml",
+                    "source": "C:\\Users\\ykari\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\3191a18d5991a4b0e63c6a62d882a61e\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "2021",
                         "endColumns": "100",
                         "endOffsets": "2117"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ykari\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6297bb1729a45c027da5fbe994206fe8\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
+                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
+                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\cours_android\\git\\projet_atelier_des_chefs\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\ykari\\Desktop\\projet_atelier_des_chefs-m\\projet_atelier_des_chefs\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\titel\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\dee41d460113b9d0790cb62caa511d4b\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\ykari\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.2.aar\\8a03a9751b8e5f49e68e894fdc06d0ab\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\titel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\061c3906673cab95c794ca282f6a9194\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\ykari\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\6297bb1729a45c027da5fbe994206fe8\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
